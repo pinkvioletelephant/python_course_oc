@@ -29,7 +29,7 @@ git clone https://github.com/pinkvioletelephant/python_course_oc.git
 ``` 
 
 - Naviguez vers le dossier correspondant au cours spécifique souhaité
-    - `1_BasesPython`: [Le cours est disponible ici](https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python)
+    - `1_BasicsPython`: [Le cours est disponible ici](https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python)
 
 ## Licence
 
